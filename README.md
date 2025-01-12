@@ -20,4 +20,4 @@ A customizable and efficient controller for RGB LED strips, designed to enhance 
 - Breadboard  
 - Green PCB Printed Circuit  
 
-[🔗 See the project details](https://github.com/yourusername/ENSAMC-PROJECTS/tree/main/RGB-LED-Controller)
+[🔗 See the project details](https://github.com/HoussamCbk/ENSAMC-PROJECTS/tree/main/RGB%20LED%20STRIP%2012V%20Controller)
