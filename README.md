@@ -21,3 +21,10 @@ A customizable and efficient controller for RGB LED strips, designed to enhance 
 - Green PCB Printed Circuit  
 
 [🔗 See the project details](https://github.com/HoussamCbk/ENSAMC-PROJECTS/tree/main/RGB%20LED%20STRIP%2012V%20Controller)
+
+### **Project 2**: Graph App  
+A python app for graph and plotting.  
+
+[🔗 See the project details](https://github.com/HoussamCbk/ENSAMC-PROJECTS/tree/main/GraphApp)
+
+
