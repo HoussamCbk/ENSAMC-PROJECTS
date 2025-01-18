@@ -9,7 +9,7 @@ def clear_screen():
 
 def happy_birthday():
     colors = ['blue', 'green', 'white']  # Restrict to blue and green
-    ascii_art = pyfiglet.figlet_format("Happy Birthday, Khoya", font="slant")
+    ascii_art = pyfiglet.figlet_format("Happy Birthday", font="slant")
     
     color_codes = {
         'blue': 34,  # ANSI code for blue
