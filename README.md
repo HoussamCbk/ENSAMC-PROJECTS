@@ -27,4 +27,7 @@ A python app for graph and plotting.
 
 [🔗 See the project details](https://github.com/HoussamCbk/ENSAMC-PROJECTS/tree/main/GraphApp)
 
+### **Project 3**: Bithday Script 
+A python script to wish happy birthday to your friends and family using cmd.  
 
+[🔗 See the project details](https://github.com/HoussamCbk/ENSAMC-PROJECTS/tree/main/BirthdayScript)
