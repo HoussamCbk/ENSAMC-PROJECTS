@@ -81,11 +81,4 @@ Using GPS technology to enhance automotive safety, navigation, performance, and 
 
 ---
 
-## 🛠️ Next Steps
-- [ ] Select 1–2 ideas to prototype
-- [ ] List hardware requirements
-- [ ] Research software stack
-- [ ] Timeline and task assignments
-
----
 
